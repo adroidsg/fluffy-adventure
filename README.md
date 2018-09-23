@@ -23,3 +23,5 @@ _You **can** combine them_
    1. Item 3a
    1. Item 3b
    
+ Your site is published at https://adroidsg.github.io/fluffy-adventure/
+ 
